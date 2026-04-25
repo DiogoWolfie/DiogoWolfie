@@ -10,7 +10,7 @@
 
 **Engenharia da Computação @ Insper** · Bolsista Integral · Fortaleza/CE → São Paulo/SP
 
-*Buscando programação com propósito*
+*Buscando programar com propósito*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-pereira-lobo-6ab332224/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=email&logoColor=white)](mailto:diogopl1@al.insper.edu.br)
@@ -32,7 +32,7 @@ class Desenvolvedor:
         self.linguagens  = ["Python", "C", "C#", "C++", "Java", "R"]
 
     def filosofia(self) -> str:
-        return "Tecnologia boa é a que resolve problema de gente real."
+        return "Simplicidade, constância e curiosidade."
 ```
 
 ---
@@ -78,7 +78,6 @@ class Desenvolvedor:
 
 > Sempre tem algo em construção por aqui. Alguns projetos são de aula, outros são curiosidade pura.
 
-<!-- Você pode substituir esses cards por projetos reais seus -->
 
 <div>
 
@@ -92,24 +91,24 @@ class Desenvolvedor:
 
 ## 🎯 áreas de interesse
 
-| 🔐 Cibersegurança | 📊 Data Science | 🧩 Sistemas |
+| 🔐 Cibersegurança | 📊 Data Science | ⚙️ Sistemas Embarcados |
 |:-:|:-:|:-:|
-| Segurança ofensiva e defensiva, CTFs, análise de vulnerabilidades | Machine Learning, análise exploratória, visualização de dados | Baixo nível, arquitetura, eficiência |
+| Segurança ofensiva e defensiva, análise de vulnerabilidades | Machine Learning, análise exploratória, visualização de dados | Código próximo do hardware, integração e testes na prática |
 
 ---
 
 ## 🌵 um pouco mais
 
-- Estudante de turma especializadas para os vestibulares do ITA/IME
-- Bolsista integral no Insper — nada disso veio fácil, e não toco nessa conquista por acaso
-- Me tornei engenheiro com propósito de construir algo legal socialmente.
-- Fora do computador: gosto de cozinhar, de física (quanto mais maluca melhor), de ler ficção científica, romance e história da ciência e de filosofar bastante no bate papo.
+- Estudante de turma especializadas para os vestibulares do ITA/IME durante o ensino médio
+- Bolsista integral no Insper
+- Desejo usar meus conhecimentos em algo que possa impactar as pessoas ao meu redor
+- Fora do computador: gosto de cozinhar, de física (quanto mais maluca melhor), de ler ficção científica, romance e história da ciência.
 
 ---
 
 <div align="center">
 
-*"O melhor código é o que resolve o problema de alguém."*
+*Código, café e uma vida tranquila.*
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DiogoWolfie.DiogoWolfie)
 🐺
