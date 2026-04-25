@@ -1,13 +1,6 @@
 <div align="center">
 
-```
- ██████╗ ██╗
-██╔═══██╗██║
-██║   ██║██║
-██║   ██║██║
-╚██████╔╝██║
- ╚═════╝ ╚═╝
-```
+## ⌜ Olá, mundo! ⌟
 
 </div>
 
@@ -73,11 +66,11 @@ class Desenvolvedor:
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoWolfie&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
-</div>
+</div> -->
 
 ---
 
@@ -92,6 +85,7 @@ class Desenvolvedor:
 [![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=DiogoWolfie&repo=MeowLang&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/DiogoWolfie/MeowLang)
 [![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=DiogoWolfie&repo=Project_Data_analysis_R&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/DiogoWolfie/Project_Data_analysis_R)
 [![Projeto 3](https://github-readme-stats.vercel.app/api/pin/?username=DiogoWolfie&repo=3_body_problem&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/DiogoWolfie/3_body_problem)
+[![Projeto 4](https://github-readme-stats.vercel.app/api/pin/?username=DiogoWolfie&repo=Java_to_learn&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/DiogoWolfie/Java_to_learn)
 </div>
 
 ---
@@ -120,3 +114,7 @@ class Desenvolvedor:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DiogoWolfie.DiogoWolfie)
 🐺
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
