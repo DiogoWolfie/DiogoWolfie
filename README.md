@@ -91,9 +91,9 @@ class Desenvolvedor:
 
 ## 🎯 áreas de interesse
 
-| 🔐 Cibersegurança | 📊 Data Science | ⚙️ Sistemas Embarcados |
+| 🔐 Cibersegurança | 📊 Data Science | ⚙️ Engenharia de Software |
 |:-:|:-:|:-:|
-| Segurança ofensiva e defensiva, análise de vulnerabilidades | Machine Learning, análise exploratória, visualização de dados | Código próximo do hardware, integração e testes na prática |
+| Segurança ofensiva e defensiva, análise de vulnerabilidades | Machine Learning, análise exploratória, visualização de dados | Código eficiente, desenvolvimento de sistemas, aplicações práticas |
 
 ---
 
