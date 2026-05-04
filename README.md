@@ -13,9 +13,12 @@
 *Buscando programar com propósito*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-pereira-lobo-6ab332224/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=email&logoColor=white)](mailto:diogopl1@al.insper.edu.br)
-
 </div>
+
+<div align = "center">
+    📩 **diogopl1@al.insper.edu.br**
+</div>
+
 
 ---
 
